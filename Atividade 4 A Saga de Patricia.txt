@@ -1,0 +1,10 @@
+1- Patricia deve ter problemas tanto em alimentar quanto em consultar as planilhas, o que deve frequentemente resultar em erros e conflitos de horarios.
+
+2- Bolar um programa que permita o agendamento e a consulta dos horairos/salas e que faça sugestoes quando uma sala/horario  estejam ocupados.
+
+3-O sistema devera armazenar a informação dos horarios em que cada uma das salas estar-a ocupada, bem como o responsavel pela reserva, numero de participantes e equipamentos que deveram estar disponiveis no local.
+
+O sistema deverá permitira a rapida consulta de qual sala estará disponivel num determinado dia/horario.
+
+O sistema deverá alertar quando o usuario tentar inserir uma reserva de sala em conflito com uma resrva já realizada e sugerir uma sala/horario livres mais proximo naquela data
+ 
